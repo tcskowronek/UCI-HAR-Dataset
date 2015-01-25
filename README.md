@@ -31,6 +31,7 @@ contains the final processing results.
 
 ### Code Book
 The code book for this project can be found in CodeBook.md in the root of the 
-UCI-HAR-Dataset directory.
+UCI-HAR-Dataset directory.  It explains the source files, resulting tidy data
+set and the steps taken to produce the tidy_data.txt file.
 
 
