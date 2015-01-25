@@ -13,7 +13,8 @@ The source data utilized in this project was downloaded from:
 * https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The archive file was extracted into a directory named UCI-HAR-Dataset, which is 
-represented by this repo.
+represented by this repo.  All original source files have been include for a 
+complete solution.
 
 
 ### R Script:
